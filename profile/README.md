@@ -23,6 +23,4 @@
 ![nos creation graph](https://github-readme-activity-graph.vercel.app/graph?username=noscreation&custom_title=NOS%20CREATOR%20GITHUB%20ACTIVITY%20GRAPH&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 #
 Let's connect and collaborate on exciting projects! 😊
-
-![Animation](https://raw.githubusercontent.com/noscreator/noscreator/output/snake.svg)
 ###
